@@ -128,9 +128,9 @@ Most exercises require API access to CIRCL services. Obtain credentials from:
 | Service | Registration | API Key Required |
 |---------|-------------|-----------------|
 | **MISP Training** | https://training.misp-community.org | Yes |
-| **PassiveDNS** | Contact CIRCL (info@circl.lu) | Yes |
-| **PassiveSSL** | Contact CIRCL (info@circl.lu) | Yes |
-| **PassiveSSH** | Contact CIRCL (info@circl.lu) | Yes |
+| **PassiveDNS** | https://www.circl.lu/pdns | Yes |
+| **PassiveSSL** | https://www.circl.lu/pssl | Yes |
+| **PassiveSSH** | https://pssh.circl.lu | Yes |
 | **RansomLook** | https://www.ransomlook.io | No |
 | **OnionLookup** | https://onion.ail-project.org | No |
 | **Hashlookup** | https://hashlookup.circl.lu | No |
