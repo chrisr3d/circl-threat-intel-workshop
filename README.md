@@ -51,10 +51,8 @@ GitHub Codespaces provides a cloud-based development environment with all depend
 
 2. **Access Jupyter Notebooks**
    - Once the Codespace loads, the VS Code interface will appear
-   - In the terminal, check the open ports and open the URL associated with port 8888.
-   - Navigate to the `notebooks/` directory in the file explorer
-   - Click on any `.ipynb` file to open it in Jupyter
-   - VS Code will automatically detect and configure the Jupyter environment
+   - In the terminal, check the open ports and open the URL associated with port 8888. 
+   - Copy the Jupyter token from the Codespace terminal and use it to load the Jupyter Notebooks.
 
 3. **Run Notebooks**
    - Select the Python kernel when prompted
