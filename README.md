@@ -219,12 +219,20 @@ All the materials are dual-licensed under GNU Affero General Public License vers
 - [CIRCL Services](https://www.circl.lu/services/)
 - [MISP Project](https://www.misp-project.org/)
 - [PyMISP Documentation](https://pymisp.readthedocs.io/)
-- [Threat Intelligence Fundamentals](https://www.circl.lu/assets/files/misp-training/first2019/2-MISP-training-first2019-threat-intelligence-and-MISP.pdf)
+- [PassiveDNS](https://www.circl.lu/services/passive-dns/)
+- [PassiveSSL](https://www.circl.lu/services/passive-ssl/)
+- [PassiveSSH](https://d4-project.github.io/passive-ssh/)
+- [RansomLook](https://www.ransomlook.io/doc/)
+- [OnionLookup](https://onion.ail-project.org/apiman/swagger/)
+- [VulnerabilityLookup](https://www.vulnerability-lookup.org/documentation/)
 
 ### Training Materials
 - [MISP Training Materials](https://github.com/MISP/misp-training)
 - [Threat Intelligence Best Practices](https://www.misp-project.org/misp-training/)
 - [CIRCL Workshops and Conferences](https://www.circl.lu/training/)
+
+For more advanced MISP playbooks check the dedicated repository:
+- https://github.com/MISP/misp-playbooks
 
 ---
 
