@@ -16,6 +16,7 @@ This repository contains hands-on Jupyter notebooks for learning threat intellig
 | `06_hashlookup.ipynb` | Hashlookup | File hash intelligence and malware identification |
 | `07_vulnerability_lookup.ipynb` | Vulnerability-Lookup | Search known vulnerabilities (CVEs), affected products, trends |
 | `08_lookyloo.ipynb` | Lookyloo | Website capture and content analysis |
+| `09_pandora.ipynb` | Pandora | Submit and analize files for malware detection |
 
 ### Learning Objectives
 
