@@ -17,6 +17,7 @@ This repository contains hands-on Jupyter notebooks for learning threat intellig
 | [07_vulnerability_lookup.ipynb](notebooks/07_vulnerability_lookup.ipynb) | Vulnerability-Lookup | Search known vulnerabilities (CVEs), affected products, trends |
 | [08_lookyloo.ipynb](notebooks/08_lookyloo.ipynb) | Lookyloo | Website capture and content analysis |
 | [09_pandora.ipynb](notebooks/09_pandora.ipynb) | Pandora | Submit and analize files for malware detection |
+| [10_bgpranking.ipynb](notebooks/10_bgpranking.ipynb) | BGP-Ranking | Get ASN scores based on reported malicious activity |
 
 ### Learning Objectives
 
@@ -138,6 +139,7 @@ Most exercises require API access to CIRCL services. Obtain credentials from:
 | **Vulnerability-Lookup** | https://vulnerability.circl.lu/ | No |
 | **Lookyloo** | https://lookyloo.circl.lu | No |
 | **Pandora** | https://pandora.circl.lu | No |
+| **BGP-Ranking** | https://bgpranking.circl.lu | No |
 
 ### Credential Management
 
@@ -233,6 +235,7 @@ All the materials are dual-licensed under GNU Affero General Public License vers
 - [VulnerabilityLookup](https://www.vulnerability-lookup.org/documentation/)
 - [Lookyloo](https://www.lookyloo.eu/docs/main/index.html/)
 - [Pandora](https://github.com/pandora-analysis/pandora)
+- [BGP-Ranking](https://www.circl.lu/projects/bgpranking/)
 
 ### Training Materials
 - [MISP Training Materials](https://github.com/MISP/misp-training)

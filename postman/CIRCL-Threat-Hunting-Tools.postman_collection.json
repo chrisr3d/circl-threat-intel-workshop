@@ -1053,6 +1053,41 @@
 					"response": []
 				}
 			]
+		},
+		{
+			"name": "BGP-Ranking",
+			"item": [
+				{
+					"name": "0 - get asn ranking",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"asn\": \"42969\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://bgpranking.circl.lu/json/asn",
+							"protocol": "https",
+							"host": [
+								"bgpranking",
+								"circl",
+								"lu"
+							],
+							"path": [
+								"json",
+								"asn"
+							]
+						}
+					},
+					"response": []
+				}
+			]
 		}
 	],
 	"event": [
