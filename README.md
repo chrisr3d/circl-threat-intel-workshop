@@ -8,15 +8,15 @@ This repository contains hands-on Jupyter notebooks for learning threat intellig
 
 | Notebook | Service | Description |
 |----------|---------|-------------|
-| `01_misp.ipynb` | MISP | Threat intelligence platform for sharing and correlating IOCs |
-| `02_passive_dns.ipynb` | PassiveDNS | Historical DNS resolution data for infrastructure analysis |
-| `03_passive_ssl.ipynb` | PassiveSSL | SSL/TLS certificate intelligence and historical tracking |
-| `04_passive_ssh.ipynb` | PassiveSSH | SSH fingerprint analysis and infrastructure mapping |
-| `05_ransomlook_onionlookup.ipynb` | RansomLook & OnionLookup | Ransomware tracking and Tor hidden service analysis |
-| `06_hashlookup.ipynb` | Hashlookup | File hash intelligence and malware identification |
-| `07_vulnerability_lookup.ipynb` | Vulnerability-Lookup | Search known vulnerabilities (CVEs), affected products, trends |
-| `08_lookyloo.ipynb` | Lookyloo | Website capture and content analysis |
-| `09_pandora.ipynb` | Pandora | Submit and analize files for malware detection |
+| [01_misp.ipynb](notebooks/01_misp.ipynb) | MISP | Threat intelligence platform for sharing and correlating IOCs |
+| [02_passive_dns.ipynb](notebooks/02_passive_dns.ipynb) | PassiveDNS | Historical DNS resolution data for infrastructure analysis |
+| [03_passive_ssl.ipynb](notebooks/03_passive_ssl.ipynb) | PassiveSSL | SSL/TLS certificate intelligence and historical tracking |
+| [04_passive_ssh.ipynb](notebooks/04_passive_ssh.ipynb) | PassiveSSH | SSH fingerprint analysis and infrastructure mapping |
+| [05_ransomlook_onionlookup.ipynb](notebooks/05_ransomlook_onionlookup.ipynb) | RansomLook & OnionLookup | Ransomware tracking and Tor hidden service analysis |
+| [06_hashlookup.ipynb](notebooks/06_hashlookup.ipynb) | Hashlookup | File hash intelligence and malware identification |
+| [07_vulnerability_lookup.ipynb](notebooks/07_vulnerability_lookup.ipynb) | Vulnerability-Lookup | Search known vulnerabilities (CVEs), affected products, trends |
+| [08_lookyloo.ipynb](notebooks/08_lookyloo.ipynb) | Lookyloo | Website capture and content analysis |
+| [09_pandora.ipynb](notebooks/09_pandora.ipynb) | Pandora | Submit and analize files for malware detection |
 
 ### Learning Objectives
 
