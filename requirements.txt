@@ -5,7 +5,7 @@ matplotlib
 ipython
 rich
 pyopenssl
-pymisp[email]
+pymisp[fileobjects,email]
 pypandora
 pypdns
 pypssl
