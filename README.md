@@ -8,7 +8,8 @@ This repository contains hands-on Jupyter notebooks for learning threat intellig
 
 | Notebook | Service | Description |
 |----------|---------|-------------|
-| [01_misp.ipynb](notebooks/01_misp.ipynb) | MISP | Threat intelligence platform for sharing and correlating IOCs |
+| [01a_pymisp.ipynb](notebooks/01a_pymisp.ipynb) | PyMISP | PyMISP overview |
+| [01b_misp_api.ipynb](notebooks/01b_misp_api.ipynb) | MISP | Quick introduction to the MISP API |
 | [02_passive_dns.ipynb](notebooks/02_passive_dns.ipynb) | PassiveDNS | Historical DNS resolution data for infrastructure analysis |
 | [03_passive_ssl.ipynb](notebooks/03_passive_ssl.ipynb) | PassiveSSL | SSL/TLS certificate intelligence and historical tracking |
 | [04_passive_ssh.ipynb](notebooks/04_passive_ssh.ipynb) | PassiveSSH | SSH fingerprint analysis and infrastructure mapping |
